@@ -38,7 +38,7 @@ Está implementado en **React + TypeScript** y usa **Recharts** para mostrar los
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 - Node.js (v16+ recomendado).
 - Gestor de paquetes: `npm` o `yarn`.
